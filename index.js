@@ -5,3 +5,7 @@ app.post('/africastalking', function(req, res){
   console.log('request: ', JSON.stringify(req));
   return res.status(200).send('END goodbye');
 });
+
+app.listen(80, function(x){
+  console.log(x);
+});
