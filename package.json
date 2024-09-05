@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rossmcewan/africastalking-webhook#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.16.0"
   }
 }
